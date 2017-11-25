@@ -1,0 +1,56 @@
+﻿  main.cpp
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\main.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\main.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\main.cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\main.cpp(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\main.cpp(36): warning C4267: инициализация: преобразование из "size_t" в "ushort"; возможна потеря данных
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\main.cpp(48): warning C4267: =: преобразование из "size_t" в "ushort"; возможна потеря данных
+  graphic.cpp
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(5): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(6): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(7): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(31): warning C4267: инициализация: преобразование из "size_t" в "ushort"; возможна потеря данных
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(31): warning C4267: инициализация: преобразование из "size_t" в "const ushort"; возможна потеря данных
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(41): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(42): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(43): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(44): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(47): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(48): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(52): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(53): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(93): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(94): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(95): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(96): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(99): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(100): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(104): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(105): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(146): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(147): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(148): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(149): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(153): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(154): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(159): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(160): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(178): warning C4305: =: усечение из "int" в "char"
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(178): warning C4309: =: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(208): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(209): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(212): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(213): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(216): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(217): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(220): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(221): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(226): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(227): warning C4309: static_cast: усечение константного значения
+c:\users\tosha\onedrive\документы\visual studio 2017\projects\1_semestr\mathemcastle\graphic.cpp(305): warning C4267: инициализация: преобразование из "size_t" в "ushort"; возможна потеря данных
+  Создание кода...
+  MathemCastle.vcxproj -> C:\Users\tosha\OneDrive\Документы\Visual Studio 2017\Projects\1_semestr\Debug\MathemCastle.exe
